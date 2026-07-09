@@ -17,3 +17,8 @@
 
 ## Мой опыт в проектах:
 Ниже вы можете увидеть мои ключевые работы.
+
+## Моя статистика на GitHub
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornikov08-prog&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornikov08-prog&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
