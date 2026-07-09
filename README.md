@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Михаил
 
-<!--
-**kornikov08-prog/kornikov08-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специалист по **промпт-инжинирингу** и **внедрению AI-решений**.
+Моя суперсила — делать сложные технологии понятными и полезными для бизнеса. Я умею создавать чат-ботов, интеграции с LLM и проводить AI-диагностику компаний, чтобы находить точки для роста и автоматизации.
 
-Here are some ideas to get you started:
+## Мои навыки и компетенции 🤖
+*   **Промпт-инжиниринг**: Разработка эффективных промптов для GPT, Claude, Perplexity.
+*   **LLM-интеграции**: Подключение и настройка AI-моделей через API.
+*   **Разработка ботов**: Создание Telegram- и веб-ботов с AI-функционалом.
+*   **RAG (Retrieval-Augmented Generation)**: Работа с векторными базами данных и построение контекста для точных ответов AI.
+*   **Анализ данных**: Использование Python для сбора и обработки информации.
+*   **Оформление проектов**: Создание понятной документации (README) и упаковка результата в интерфейс.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+*   **Telegram**: @mikhail_ai_diagnostic
+*   **Email**: kornikov08@gmail.com
+
+## Мой опыт в проектах:
+Ниже вы можете увидеть мои ключевые работы.
